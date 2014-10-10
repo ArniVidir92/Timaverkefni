@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Timaverkefni</string>
-    <string name="hello_world">Árni Víðir og Gústi sem var í netveseni þess vegna erum við saman að gera þetta</string>
+    <string name="hello_world">Árni Víðir og Gústi sem var í netveseni þess vegna erum við saman að gera þetta. Ívan og Snorri(sem var ekki með tölvu) collaboratuðu í þessu verk</string>
     <string name="action_settings">Settings</string>
 
 </resources>
